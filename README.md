@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Nikhil%20Chauhan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20App%20Developer%20%7C%20Android%20%26%20Flutter&descSize=20&descAlignY=58&descColor=36BCF7" width="100%" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Founding+Engineer+%7C+Android+%26+Flutter;Building+fast%2C+scalable+mobile+apps;Google+Hackathon+National+Runner-Up;Hacktoberfest+Global+Supercontributor" alt="Typing animation" />
+<img src="https://raw.githubusercontent.com/niikhilchauhann/niikhilchauhann/main/assets/header.svg" width="100%" alt="Nikhil Chauhan - Mobile App Developer" />
 
 <br><br>
 
